@@ -30,7 +30,7 @@ def kesha_maker(array)
 end
 
 def find_a(strings)
-  strings.select {|a| a.starts_with?("a")
+  strings.select {|a| a.starts_with?("a")}
 end
 
 def sum_array(array)
