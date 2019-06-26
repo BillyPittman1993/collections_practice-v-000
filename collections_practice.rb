@@ -20,6 +20,7 @@ def reverse_array(numbers)
 end 
 
 def kesha_maker(array)
+  kesha = []
   
 end
 
