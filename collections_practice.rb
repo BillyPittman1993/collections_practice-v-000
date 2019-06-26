@@ -21,7 +21,7 @@ end
 
 def kesha_maker(array)
   kesha = []
-  
+  array.each do {
 end
 
 def find_a(strings)
