@@ -19,7 +19,7 @@ def reverse_array(numbers)
   numbers.reverse
 end 
 
-def kesha_maker(strings)
+def kesha_maker(array)
   
 end
 
